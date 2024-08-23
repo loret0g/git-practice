@@ -1,0 +1,3 @@
+Name: Loreto
+Age: 34
+Favorite color: Blue
